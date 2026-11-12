@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+*.csv
+*.parquet
+*.zip
+*outputs/
+mycosttree.json
+model_bundle.json
+
